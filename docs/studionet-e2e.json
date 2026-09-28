@@ -1,0 +1,30 @@
+{
+  "contract": "0x029c5325891c737a8e04a6702aFE284BeD1d672b",
+  "version": "LICENSE_LATCH_V1",
+  "architecture": "ATOMIC_AUTHORITY_BOUND_SNAPSHOT_PAIR",
+  "assessment_id": 1,
+  "fixture": {
+    "package": "ethers",
+    "old": "6.14.0",
+    "new": "6.15.0",
+    "policy": "PERMISSIVE_STANDARD"
+  },
+  "transaction": {
+    "tx": "0x55123104629e7bf6ee4d75ece426e17ec647554b0cbd4b7f02a8a3b816ec040a",
+    "status": "FINALIZED",
+    "consensus": "MAJORITY_AGREE",
+    "execution": "SUCCESS"
+  },
+  "final": {
+    "state": "COMPATIBLE",
+    "reason": "DECLARATION_STABLE",
+    "old_license_raw": "MIT",
+    "new_license_raw": "MIT",
+    "old_family": "MIT",
+    "new_family": "MIT",
+    "old_integrity": "sha512-KgHwltNSMdbrGWEyKkM0Rt2s+u1nDH/5BVDQakLinzGEJi4bWindBzZSCC4gKsbZjwDTI6ex/8suR9Ihbmz4IQ==",
+    "new_integrity": "sha512-Kf/3ZW54L4UT0pZtsY/rf+EkBU7Qi5nnhonjUb8yTXcxH3cdcWrV2cRyk0Xk/4jK6OoHhxxZHriyhje20If2hQ==",
+    "old_digest": "f8d7abe658bf94f43548899c3000e40ae6bb3ce46fefa4c4927f643fb2392261",
+    "new_digest": "c792ffed364fd808a248c4fe25bf328332c5412a0dfbc4a361fe814df5767159"
+  }
+}
